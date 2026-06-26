@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goat Insurance</string>
+    <string name="app_name_full">Goat Insurance Management System</string>
+
+    <!-- Auth -->
+    <string name="login_title">Login</string>
+    <string name="enter_phone">Enter Mobile Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="total_enrollments">Total Enrollments</string>
+    <string name="premium_collected">Premium Collected</string>
+    <string name="active_claims">Active Claims</string>
+    <string name="vaccination_due">Vaccination Due</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="enroll">Enroll</string>
+    <string name="goats">Goats</string>
+    <string name="claims">Claims</string>
+    <string name="profile">Profile</string>
+
+    <!-- Enrollment -->
+    <string name="new_enrollment">New Enrollment</string>
+    <string name="step_farmer">Farmer Details</string>
+    <string name="step_goat">Goat Details</string>
+    <string name="step_photos">Capture Photos</string>
+    <string name="step_qr">QR Tagging</string>
+    <string name="step_vaccination">Vaccination</string>
+    <string name="step_premium">Premium</string>
+    <string name="step_policy">Generate Policy</string>
+</resources>

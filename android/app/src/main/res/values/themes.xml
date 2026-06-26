@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GoatInsurance" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.GoatInsurance.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#006E24</item>
+        <item name="postSplashScreenTheme">@style/Theme.GoatInsurance</item>
+    </style>
+</resources>

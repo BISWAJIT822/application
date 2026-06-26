@@ -1,0 +1,42 @@
+# Git ignore file for Goat Insurance System
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+!.env.example
+
+# Gradle / Android
+.gradle/
+build/
+app/build/
+local.properties
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.ap_
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+db.properties
+.DS_Store
